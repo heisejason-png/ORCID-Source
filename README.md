@@ -57,4 +57,5 @@ See [CREDITS.md](https://github.com/ORCID/ORCID-Source/blob/master/CREDITS.md)
 
 # Projects
 See [PROJECTS.md](https://github.com/ORCID/ORCID-Source/blob/master/PROJECTS.md)
-Created by Jason Heise   https://www.behance.net
+Created by Jason Heise   
+Owned by Jason Heise heisejason-png Giters
